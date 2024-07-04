@@ -1,0 +1,147 @@
+personaje:
+  vida: 10
+  velocidad_x: 5
+  velocidad_y: 30 
+  gravedad: 3
+  tiempo_invulnerabilidad: 3.0
+  tiempo_intoxicacion: 5.0
+  ancho: 50
+  alto: 50
+  puntos: 100
+
+jazz:
+  danio_habilidad: 5
+  enfriamiento_habilidad: 5.0
+  velocidad_y_habilidad: 45 
+
+spaz:
+  danio_habilidad: 5
+  enfriamiento_habilidad: 5.0
+  velocidad_x_habilidad: 15
+
+lori:
+  danio_habilidad: 5
+  enfriamiento_habilidad: 5.0
+  velocidad_x_habilidad: 10
+  velocidad_y_habilidad: 30
+
+tiempo_partida: 120
+
+pantalla:
+  lim_x: 2000
+  lim_y: 2000
+
+estado:
+  tiempo_estado_muerto: 5
+  tiempo_estado_herido: 1.5
+
+municion:
+  bala_normal:
+    municion: 0
+    tiempo_entre_disparo: 0.75
+    velocidad_del_proyectil: 14
+    danio: 2
+    rango_explosion: 0
+    ancho: 10
+    largo: 10
+    tiempo_reaparicion: 0
+  bala_veloz:
+    municion: 60
+    tiempo_entre_disparo: 0.1
+    velocidad_del_proyectil: 30
+    danio: 1
+    rango_explosion: 0
+    ancho: 10
+    largo: 10
+    tiempo_reaparicion: 10
+  cohete_rapido:
+    municion: 4
+    tiempo_entre_disparo: 1.5
+    velocidad_del_proyectil: 25
+    danio: 2
+    rango_explosion: 50
+    ancho: 20
+    largo: 20
+    tiempo_reaparicion: 20
+  cohete_toxico:
+    municion: 2
+    tiempo_entre_disparo: 2
+    velocidad_del_proyectil: 15
+    danio: 2
+    rango_explosion: 50
+    ancho: 20
+    largo: 20
+    tiempo_reaparicion: 20
+
+objeto:
+  zanahoria:
+    ancho: 25
+    alto: 25
+    tiempo_reaparicion: 10
+    vida_restaurada: 2
+  gema:
+    ancho: 25
+    alto: 25
+    tiempo_reaparicion: 10
+    puntos_otorgados: 50
+  moneda:
+    ancho: 25
+    alto: 25
+    tiempo_reaparicion: 5
+    puntos_otorgados: 25
+  municion:
+    ancho: 25
+    alto: 25
+
+enemigo:
+  tiempo_reaparicion_enemigo: 5
+  vida_default: 1
+  velocidad_default: 3
+  danio_default: 1
+  ancho: 50
+  alto: 50
+  fencer:
+    danio: 3
+    puntos: 50
+    vida: 1
+    ancho: 70
+    alto: 50
+    probabilidad_drop_vida: [0,20]
+    probabilidad_drop_municion: [20,100]
+    tiempo_reaparicion: 5
+    velocidad_x: 4
+  lizzard: 
+    danio: 2
+    puntos: 20
+    vida: 1
+    ancho: 50
+    alto: 50
+    probabilidad_drop_vida: [0,20]
+    probabilidad_drop_municion: [20,100]
+    tiempo_reaparicion: 5
+    velocidad_x: 4
+  rat:
+    danio: 1
+    puntos: 10
+    vida: 1
+    ancho: 70
+    alto: 30
+    probabilidad_drop_vida: [0,20]
+    probabilidad_drop_municion: [20,100]
+    tiempo_reaparicion: 5
+    velocidad_x: 3
+  bruja:
+    danio: 2
+    puntos: 75
+    vida: 1
+    ancho: 50
+    alto: 50
+    probabilidad_drop_vida: [0,20]
+    probabilidad_drop_municion: [20,100]
+    tiempo_reaparicion: 5
+    velocidad_x: 6
+
+
+
+
+  

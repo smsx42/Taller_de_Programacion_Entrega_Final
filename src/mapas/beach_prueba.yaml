@@ -1,0 +1,2518 @@
+miscelaneo:
+  - x: 0
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 0
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 50
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 50
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 50
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 50
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla.png
+  - x: 100
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 100
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 100
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 100
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla.png
+  - x: 150
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 150
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 150
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 150
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_puerta_cueva.png
+  - x: 150
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla.png
+  - x: 200
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 200
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 200
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 200
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla.png
+  - x: 250
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 250
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 250
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 250
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla.png
+  - x: 300
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 300
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 300
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 300
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla.png
+  - x: 350
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 350
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 350
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 350
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla.png
+  - x: 400
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 400
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 400
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 400
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 450
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 450
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 450
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 450
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 450
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 450
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla2.png
+  - x: 500
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 500
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 500
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 500
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 500
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 500
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 500
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla2.png
+  - x: 500
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 500
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 500
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 500
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 500
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 550
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 550
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 550
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 550
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 550
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 550
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 550
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_calabaza.png
+  - x: 550
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 550
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 550
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 550
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 550
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 550
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 600
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 600
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 600
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 600
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 600
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 600
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 600
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 600
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 600
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 600
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 600
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 600
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 600
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 650
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 650
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 650
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 650
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 650
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 650
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 650
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 650
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 650
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 650
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 650
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 650
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 650
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 700
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 700
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 700
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 700
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 700
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla.png
+  - x: 700
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 700
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 700
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 700
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 700
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 700
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 700
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 750
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 750
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 750
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 750
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 750
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla.png
+  - x: 750
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 750
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 750
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 750
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 750
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 750
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 750
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 800
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 800
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 800
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 800
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 800
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla.png
+  - x: 800
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 800
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 800
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 800
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 800
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 800
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 800
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 850
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 850
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 850
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 850
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 850
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla.png
+  - x: 850
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 850
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 850
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 850
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 850
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 850
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 850
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 900
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 900
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 900
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 900
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 900
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla.png
+  - x: 900
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 900
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 900
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 900
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 900
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 900
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 950
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 950
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 950
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 950
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 950
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 950
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 950
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla2.png
+  - x: 950
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 950
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 950
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 950
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_beach.png
+  - x: 1000
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1000
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1000
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1000
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1000
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1000
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1000
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1000
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1000
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_calabaza.png
+  - x: 1000
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla2.png
+  - x: 1050
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1050
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1050
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1050
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1050
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1050
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1050
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_calabaza.png
+  - x: 1050
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1050
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1100
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1100
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1100
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1100
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1100
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1100
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1100
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1100
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1150
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1150
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1150
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1150
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1150
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1150
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1150
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1150
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1200
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1200
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1200
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1200
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1200
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1200
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1200
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1200
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1250
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1250
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1250
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1250
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1250
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1250
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1250
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1250
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1300
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1300
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1300
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1300
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1300
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1300
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1300
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1300
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1350
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1350
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1350
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1350
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1350
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1350
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1350
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1350
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1400
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1400
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1400
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1400
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1400
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1400
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1400
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1400
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1450
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1450
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1450
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1450
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1450
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1450
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1450
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1450
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1450
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1500
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1500
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1500
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1500
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1500
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1500
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1500
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1500
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1500
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1500
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_calabaza.png
+  - x: 1550
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1550
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1550
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1550
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1550
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1550
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1550
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1550
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1550
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1600
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1600
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1600
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1600
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1600
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_calabaza.png
+  - x: 1600
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1600
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1600
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1600
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1650
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1650
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1650
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1650
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1650
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1650
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1650
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1650
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1700
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1700
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1700
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1700
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1700
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1700
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+  - x: 1700
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_cueva.png
+solid:
+  - x: 0
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 0
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 0
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 0
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 0
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 0
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 0
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 0
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 0
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 0
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 0
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 0
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 0
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 0
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 0
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 0
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 0
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque_arena.png
+  - x: 0
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque_arena.png
+  - x: 50
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 50
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 50
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 50
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 50
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 50
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque_arena.png
+  - x: 50
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque_arena.png
+  - x: 100
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 100
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 100
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 100
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 100
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 100
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque_arena.png
+  - x: 100
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque_arena.png
+  - x: 150
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 150
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 150
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 150
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 150
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 150
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque_arena.png
+  - x: 150
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque_arena.png
+  - x: 200
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 200
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 200
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 200
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 200
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 200
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque_arena.png
+  - x: 200
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque_arena.png
+  - x: 250
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 250
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 250
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 250
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 250
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 250
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque_arena.png
+  - x: 250
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque_arena.png
+  - x: 300
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 300
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 300
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 300
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 300
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 300
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque_arena.png
+  - x: 300
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque_arena.png
+  - x: 350
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 350
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 350
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 350
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 350
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 350
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque_arena.png
+  - x: 350
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque_arena.png
+  - x: 400
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 400
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 400
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 400
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 400
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque_arena.png
+  - x: 400
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque_arena.png
+  - x: 450
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 450
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 450
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 450
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 450
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 450
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 450
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 450
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 450
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 500
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 500
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 500
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 500
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 550
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 550
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 550
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 550
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 600
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 600
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 600
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 650
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 650
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 650
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 650
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 700
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 700
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 700
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 700
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 700
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 750
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 750
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 750
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 750
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 750
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 800
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 800
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 800
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 800
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 800
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 850
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 850
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 850
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 850
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 900
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 900
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 900
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 900
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 900
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 950
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 950
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 950
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 950
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 1000
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1000
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1000
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1000
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 1000
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 1000
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 1000
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 1000
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 1000
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 1050
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1050
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1050
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1100
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1100
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1100
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1150
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1150
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1150
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1200
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1200
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1200
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1250
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1250
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1250
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1300
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1300
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1300
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1350
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1350
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1350
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1400
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1400
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1400
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1450
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1450
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1500
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1500
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1550
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1550
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1600
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1600
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1600
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1650
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1650
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1650
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1700
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1700
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1700
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1700
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque.png
+  - x: 1750
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1750
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1750
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1750
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1750
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1750
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1750
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1750
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1750
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1750
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1750
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1750
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1800
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1800
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1800
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1800
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1800
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1800
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1800
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1800
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1800
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1800
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1800
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+  - x: 1800
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_bloque2.png
+triangulo_izquierdo:
+  - x: 300
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_triangulo_izquierdo2.png
+  - x: 350
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_triangulo_izquierdo2.png
+  - x: 400
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_triangulo_izquierdo2.png
+  - x: 650
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_triangulo_izquierdo.png
+  - x: 850
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_triangulo_izquierdo.png
+  - x: 900
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_triangulo_izquierdo.png
+triangulo_derecho:
+  - x: 400
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_triangulo_derecho.png
+  - x: 450
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_triangulo_derecho.png
+  - x: 500
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/carrotus/carrotus_triangulo_derecho.png
+  - x: 550
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_triangulo_derecho.png
+  - x: 600
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_triangulo_derecho.png
+zanahoria:
+  []
+gema:
+  []
+moneda:
+  []
+bala_veloz:
+  []
+cohete_rapido:
+  []
+cohete_toxico:
+  []
+bruja:
+  []
+lizzard:
+  []
+fencer:
+  []
+rat:
+  []
+spawn:
+  - x: 750
+    y: 750
+fondo: ../src/mapas/tiles/background/damnation_fondo.png

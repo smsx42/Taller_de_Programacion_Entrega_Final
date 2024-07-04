@@ -1,0 +1,4986 @@
+miscelaneo:
+  - x: 0
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 0
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 0
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 0
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 0
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 0
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 50
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 50
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 50
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 50
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 50
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 50
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 50
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_jarrones.png
+  - x: 50
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 50
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 50
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 50
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 50
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 50
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 50
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 50
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 50
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 50
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 50
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 50
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 50
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 50
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_cuadro.png
+  - x: 50
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 50
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 100
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 100
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 100
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 100
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 100
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 100
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_ventana2.png
+  - x: 100
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 100
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_puerta_cueva.png
+  - x: 100
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 100
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 100
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 100
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 100
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 100
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 100
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 100
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla3.png
+  - x: 100
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 100
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 100
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 100
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 100
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 100
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 100
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_ventana2.png
+  - x: 100
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 100
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 100
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_jarrones.png
+  - x: 150
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 150
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 150
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 150
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 150
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 150
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 150
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 150
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 150
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_puerta_cueva.png
+  - x: 150
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 150
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 150
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 150
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 150
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 150
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla3.png
+  - x: 150
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 150
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 150
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 150
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 150
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 150
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 150
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria2.png
+  - x: 150
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 200
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 200
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 200
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 200
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 200
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 200
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 200
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_cañon.png
+  - x: 200
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 200
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 200
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 200
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 200
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 200
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 200
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 200
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla3.png
+  - x: 200
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 200
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 200
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 200
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 200
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 200
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 200
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 200
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 250
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 250
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 250
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 250
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 250
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 250
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 250
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 250
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 250
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 250
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 250
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 250
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 250
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 250
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 250
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 250
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 250
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 250
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 250
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 250
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria2.png
+  - x: 250
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 300
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 300
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 300
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 300
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 300
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 300
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_ventana2.png
+  - x: 300
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 300
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 300
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 300
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_puerta_madera.png
+  - x: 300
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 300
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 300
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 300
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 300
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 300
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 300
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 300
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 300
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 300
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 300
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 300
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 300
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 350
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 350
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 350
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 350
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 350
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 350
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 350
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 350
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 350
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 350
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 350
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 350
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 350
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 350
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla3.png
+  - x: 350
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 350
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 350
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 350
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 350
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 350
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 350
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria2.png
+  - x: 350
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 400
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 400
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 400
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 400
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 400
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 400
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 400
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 400
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 400
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_cañon.png
+  - x: 400
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 400
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 400
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 400
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 400
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 400
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla3.png
+  - x: 400
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 400
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 400
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 400
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 400
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 400
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 400
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 400
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_libreria.png
+  - x: 450
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 450
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 450
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 450
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 450
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 450
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 450
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 450
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 450
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 450
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 450
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 450
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 450
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 450
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 450
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 450
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 450
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 450
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 450
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 450
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 450
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 450
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 450
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_jarrones.png
+  - x: 500
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 500
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 500
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 500
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 500
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 500
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 500
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 500
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 500
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 500
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 500
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 500
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_cuadro3.png
+  - x: 500
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 500
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 500
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 500
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_cuadro3.png
+  - x: 500
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 500
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 500
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 500
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 500
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 500
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 500
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 500
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 550
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 550
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 550
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 550
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 550
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_cuadro3.png
+  - x: 550
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 550
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 550
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 550
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_jarrones.png
+  - x: 550
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 550
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 550
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 550
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 550
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 550
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 550
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 550
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla3.png
+  - x: 550
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 550
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 550
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 550
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 550
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 550
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_ventana2.png
+  - x: 550
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 550
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 600
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 600
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 600
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 600
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 600
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 600
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 600
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 600
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 600
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 600
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 600
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 600
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 600
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 600
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 600
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 600
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla3.png
+  - x: 600
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 600
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 600
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 600
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 600
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 600
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 600
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 600
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_puerta_madera.png
+  - x: 650
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 650
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 650
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 650
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 650
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 650
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 650
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 650
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 650
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 650
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 650
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 650
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 650
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 650
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 650
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 650
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 650
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 650
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 650
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 650
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 650
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 650
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 650
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 650
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 700
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 700
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 700
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 700
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 700
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 700
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 700
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 700
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 700
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 700
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 700
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 700
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 700
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 700
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 700
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 700
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 700
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 700
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 700
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 700
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 700
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 700
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 700
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_cuadro2.png
+  - x: 700
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 700
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 750
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 750
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 750
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 750
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 750
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 750
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 750
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 750
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 750
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 750
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 750
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 750
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 750
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 750
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 750
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 750
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 750
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla3.png
+  - x: 750
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 750
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 750
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 750
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 750
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 750
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 750
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 750
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_cañon.png
+  - x: 800
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 800
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 800
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 800
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 800
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 800
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 800
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 800
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 800
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 800
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 800
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_cuadro2.png
+  - x: 800
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 800
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 800
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 800
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 800
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 800
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 800
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla3.png
+  - x: 800
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 800
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 800
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 800
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 800
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 800
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 800
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 850
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 850
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 850
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 850
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 850
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 850
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_cuadro.png
+  - x: 850
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 850
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 850
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 850
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 850
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 850
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 850
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 850
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 850
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 850
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 850
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 850
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 850
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 850
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 850
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 850
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 850
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla3.png
+  - x: 850
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 850
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 900
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 900
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 900
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 900
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 900
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 900
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 900
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 900
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 900
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 900
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 900
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 900
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 900
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 900
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 900
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 900
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 900
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_cuadro3.png
+  - x: 900
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 900
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 900
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 900
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 900
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 900
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_barandilla3.png
+  - x: 900
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 900
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 950
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 950
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 950
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 950
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 950
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 950
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 950
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 950
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 950
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 950
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 950
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 950
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 950
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 950
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 950
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 950
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 950
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 950
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 950
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 950
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 950
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 950
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 950
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 950
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1000
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 1000
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 1000
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 1000
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 1000
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 1000
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 1000
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 1000
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 1000
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 1000
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 1000
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 1000
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 1000
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 1000
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared_castillo.png
+  - x: 1000
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1000
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1000
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1000
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1000
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1000
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1000
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1000
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1000
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1000
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1050
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1050
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1050
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1050
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1050
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1100
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1100
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1100
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1100
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1100
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1100
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1100
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_ventana2.png
+  - x: 1100
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1100
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1150
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1150
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1150
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1150
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1150
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1150
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1150
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1150
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1150
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1200
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1200
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1200
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1200
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1200
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1200
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1200
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_pared.png
+  - x: 1250
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1250
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1250
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1250
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1250
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1250
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1300
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1300
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1300
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1300
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1300
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1300
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1300
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1350
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1350
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1350
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1350
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1350
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1350
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1350
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1350
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_calabaza.png
+  - x: 1400
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1400
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1400
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1400
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1400
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1400
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1450
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1450
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1450
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1450
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1450
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1450
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1500
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1500
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1500
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1500
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1500
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1500
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1500
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1500
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_tumba.png
+  - x: 1550
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1550
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1550
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1550
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1550
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1550
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1550
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1600
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1600
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1600
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1600
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1600
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1600
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1600
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1650
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1650
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1650
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1650
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1650
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1650
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1650
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1700
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1700
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1700
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1700
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1700
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1700
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1700
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1700
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_tumba.png
+  - x: 1750
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1750
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1750
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1750
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1750
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1750
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1750
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1800
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1800
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1800
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1800
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1800
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1800
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1800
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1850
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1850
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1850
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1850
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1850
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1850
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1850
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1850
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_calabaza.png
+  - x: 1900
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1900
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1900
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1900
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1900
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1900
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1900
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_reja.png
+  - x: 1900
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/miscelaneo/miscelaneo_cañon.png
+solid:
+  - x: 0
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 0
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 0
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 0
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 0
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 0
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 0
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 0
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 0
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 0
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 0
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 0
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 0
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 0
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 0
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 0
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 0
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 0
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 0
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 0
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 0
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 0
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 0
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 0
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 0
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 0
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 0
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 50
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 50
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 50
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 50
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 50
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 50
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 50
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 50
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 100
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 100
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 100
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 100
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 100
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 100
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 100
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 100
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 100
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 150
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 150
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 150
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 150
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 150
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 150
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 150
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 150
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 150
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 200
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 200
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 200
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 200
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 200
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 200
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 200
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 200
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 200
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 250
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 250
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 250
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 250
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 250
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 250
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 250
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 250
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 300
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 300
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 300
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 300
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 300
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 300
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 300
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 300
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 350
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 350
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 350
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 350
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 350
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 350
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 350
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 350
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 350
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 350
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 400
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 400
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 400
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 400
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 400
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 400
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 400
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 400
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 400
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 400
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 450
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 450
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 450
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 450
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 450
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 450
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 450
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 450
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 500
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 500
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 500
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 500
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 500
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 500
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 550
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 550
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 550
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 550
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 550
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 550
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 550
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 600
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 600
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 600
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 600
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 600
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 650
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 650
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 650
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 650
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 700
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 700
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 700
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 700
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 750
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 750
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 750
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 750
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 750
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 750
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 800
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 800
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 800
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 800
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 800
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 800
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 850
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 850
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 850
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 850
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 850
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 850
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 850
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 850
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 900
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 900
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 900
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 900
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 900
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 900
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 900
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 900
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 900
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 950
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 950
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 950
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 950
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 950
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 950
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 950
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 950
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 1000
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 1000
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 1000
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 1000
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 1000
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 1000
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 1000
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 1050
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 1050
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 1050
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 1050
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 1050
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 1050
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 1050
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 1050
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 1050
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 1050
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 1050
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 1050
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 1050
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/castle/bloque.png
+  - x: 1050
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 1050
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 1050
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 1050
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 1050
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 1050
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 1050
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 1100
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1100
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1100
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1100
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1100
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1100
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1100
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 1100
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 1150
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1150
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1150
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1150
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1150
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1150
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 1150
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 1200
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1200
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1200
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1200
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1200
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 1200
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 1200
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 1200
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque3.png
+  - x: 1200
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque4.png
+  - x: 1250
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1250
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1250
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1250
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1300
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1300
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1300
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1350
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1350
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1350
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1400
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1400
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1400
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1450
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1450
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1450
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1500
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1500
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1500
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1550
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1550
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1550
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1600
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1600
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1600
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1650
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1650
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1650
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1700
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1700
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1700
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1750
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1750
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1750
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1800
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1800
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1800
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1850
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1850
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1850
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1900
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1900
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1900
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque.png
+  - x: 1950
+    y: 0
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 50
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 450
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 500
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 550
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 600
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 650
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 1000
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 1100
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 1300
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 1950
+    y: 1350
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+  - x: 2000
+    y: 1400
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_bloque2.png
+triangulo_izquierdo:
+  []
+triangulo_derecho:
+  - x: 950
+    y: 1150
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_triangulo_derecho2.png
+  - x: 1000
+    y: 1200
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_triangulo_derecho2.png
+  - x: 1050
+    y: 1250
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/haunted_triangulo_derecho2.png
+  - x: 1100
+    y: 700
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/hanted_triangulo_derecho.png
+  - x: 1150
+    y: 750
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/hanted_triangulo_derecho.png
+  - x: 1200
+    y: 800
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/hanted_triangulo_derecho.png
+  - x: 1250
+    y: 850
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/hanted_triangulo_derecho.png
+  - x: 1300
+    y: 900
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/hanted_triangulo_derecho.png
+  - x: 1750
+    y: 950
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/haunted/hanted_triangulo_derecho.png
+zanahoria:
+  - x: 425
+    y: 625
+    veneno: true
+  - x: 450
+    y: 500
+    veneno: false
+  - x: 450
+    y: 625
+    veneno: true
+  - x: 475
+    y: 500
+    veneno: false
+  - x: 575
+    y: 650
+    veneno: false
+  - x: 600
+    y: 650
+    veneno: false
+  - x: 625
+    y: 1200
+    veneno: false
+  - x: 650
+    y: 1200
+    veneno: false
+  - x: 675
+    y: 1200
+    veneno: false
+  - x: 775
+    y: 1075
+    veneno: true
+  - x: 775
+    y: 1100
+    veneno: true
+  - x: 850
+    y: 650
+    veneno: false
+  - x: 875
+    y: 650
+    veneno: false
+  - x: 900
+    y: 650
+    veneno: false
+gema:
+  - x: 50
+    y: 600
+    veneno: false
+  - x: 50
+    y: 625
+    veneno: false
+  - x: 75
+    y: 600
+    veneno: false
+  - x: 75
+    y: 625
+    veneno: false
+  - x: 75
+    y: 1025
+    veneno: false
+  - x: 75
+    y: 1050
+    veneno: false
+  - x: 100
+    y: 850
+    veneno: false
+  - x: 100
+    y: 875
+    veneno: false
+  - x: 100
+    y: 1025
+    veneno: false
+  - x: 100
+    y: 1050
+    veneno: false
+  - x: 125
+    y: 850
+    veneno: false
+  - x: 125
+    y: 875
+    veneno: false
+  - x: 150
+    y: 850
+    veneno: false
+  - x: 150
+    y: 875
+    veneno: false
+  - x: 175
+    y: 850
+    veneno: false
+  - x: 175
+    y: 875
+    veneno: false
+  - x: 200
+    y: 850
+    veneno: false
+  - x: 200
+    y: 875
+    veneno: false
+  - x: 225
+    y: 850
+    veneno: false
+  - x: 225
+    y: 875
+    veneno: false
+  - x: 275
+    y: 1075
+    veneno: false
+  - x: 275
+    y: 1100
+    veneno: false
+  - x: 300
+    y: 1075
+    veneno: false
+  - x: 300
+    y: 1100
+    veneno: false
+  - x: 375
+    y: 225
+    veneno: false
+  - x: 400
+    y: 225
+    veneno: false
+  - x: 425
+    y: 225
+    veneno: false
+  - x: 725
+    y: 125
+    veneno: false
+  - x: 725
+    y: 150
+    veneno: false
+  - x: 725
+    y: 175
+    veneno: false
+  - x: 725
+    y: 375
+    veneno: false
+  - x: 725
+    y: 400
+    veneno: false
+  - x: 750
+    y: 125
+    veneno: false
+  - x: 750
+    y: 150
+    veneno: false
+  - x: 750
+    y: 175
+    veneno: false
+  - x: 750
+    y: 375
+    veneno: false
+  - x: 750
+    y: 400
+    veneno: false
+moneda:
+  - x: 125
+    y: 100
+    veneno: false
+  - x: 125
+    y: 125
+    veneno: true
+  - x: 150
+    y: 100
+    veneno: false
+  - x: 150
+    y: 125
+    veneno: false
+  - x: 175
+    y: 100
+    veneno: false
+  - x: 175
+    y: 125
+    veneno: true
+  - x: 200
+    y: 100
+    veneno: false
+  - x: 200
+    y: 125
+    veneno: false
+  - x: 225
+    y: 100
+    veneno: false
+  - x: 225
+    y: 125
+    veneno: false
+  - x: 225
+    y: 625
+    veneno: false
+  - x: 250
+    y: 125
+    veneno: true
+  - x: 250
+    y: 625
+    veneno: false
+  - x: 275
+    y: 625
+    veneno: true
+  - x: 300
+    y: 625
+    veneno: true
+  - x: 625
+    y: 450
+    veneno: false
+  - x: 625
+    y: 475
+    veneno: false
+  - x: 625
+    y: 500
+    veneno: false
+  - x: 650
+    y: 450
+    veneno: false
+  - x: 650
+    y: 475
+    veneno: false
+  - x: 650
+    y: 500
+    veneno: false
+  - x: 700
+    y: 650
+    veneno: true
+  - x: 725
+    y: 650
+    veneno: true
+  - x: 975
+    y: 900
+    veneno: false
+  - x: 975
+    y: 925
+    veneno: false
+  - x: 975
+    y: 950
+    veneno: false
+  - x: 1000
+    y: 900
+    veneno: false
+  - x: 1000
+    y: 925
+    veneno: false
+  - x: 1000
+    y: 950
+    veneno: false
+  - x: 1025
+    y: 900
+    veneno: false
+  - x: 1025
+    y: 925
+    veneno: true
+  - x: 1025
+    y: 950
+    veneno: false
+bala_veloz:
+  - x: 450
+    y: 1025
+  - x: 450
+    y: 1050
+  - x: 475
+    y: 1025
+  - x: 475
+    y: 1050
+  - x: 550
+    y: 875
+  - x: 575
+    y: 875
+  - x: 600
+    y: 875
+  - x: 625
+    y: 875
+  - x: 900
+    y: 375
+  - x: 925
+    y: 375
+  - x: 950
+    y: 375
+  - x: 975
+    y: 375
+  - x: 1000
+    y: 100
+  - x: 1000
+    y: 125
+  - x: 1025
+    y: 100
+  - x: 1025
+    y: 125
+cohete_rapido:
+  - x: 150
+    y: 1150
+  - x: 150
+    y: 1175
+  - x: 175
+    y: 1150
+  - x: 175
+    y: 1175
+  - x: 350
+    y: 875
+  - x: 375
+    y: 875
+  - x: 400
+    y: 875
+  - x: 425
+    y: 875
+  - x: 425
+    y: 1150
+  - x: 425
+    y: 1175
+  - x: 450
+    y: 1150
+  - x: 450
+    y: 1175
+  - x: 750
+    y: 525
+  - x: 750
+    y: 875
+  - x: 775
+    y: 525
+  - x: 775
+    y: 875
+  - x: 800
+    y: 525
+  - x: 800
+    y: 875
+  - x: 825
+    y: 525
+  - x: 825
+    y: 875
+  - x: 850
+    y: 525
+  - x: 875
+    y: 525
+  - x: 900
+    y: 525
+  - x: 925
+    y: 525
+  - x: 1000
+    y: 150
+  - x: 1000
+    y: 175
+  - x: 1025
+    y: 150
+  - x: 1025
+    y: 175
+cohete_toxico:
+  - x: 600
+    y: 1075
+  - x: 600
+    y: 1100
+  - x: 625
+    y: 1075
+  - x: 625
+    y: 1100
+  - x: 650
+    y: 1075
+  - x: 650
+    y: 1100
+  - x: 675
+    y: 1075
+  - x: 675
+    y: 1100
+  - x: 1000
+    y: 50
+  - x: 1000
+    y: 75
+  - x: 1025
+    y: 50
+  - x: 1025
+    y: 75
+bruja:
+  - x: 200
+    y: 800
+  - x: 200
+    y: 950
+  - x: 250
+    y: 1150
+  - x: 300
+    y: 100
+  - x: 1350
+    y: 1050
+  - x: 1400
+    y: 600
+  - x: 1450
+    y: 650
+  - x: 1550
+    y: 1200
+lizzard:
+  - x: 200
+    y: 1250
+  - x: 650
+    y: 650
+  - x: 800
+    y: 500
+fencer:
+  - x: 400
+    y: 200
+  - x: 1200
+    y: 1250
+rat:
+  - x: 200
+    y: 670
+  - x: 550
+    y: 1270
+  - x: 1500
+    y: 920
+  - x: 1800
+    y: 1120
+spawn:
+  - x: 100
+    y: 300
+  - x: 150
+    y: 500
+fondo: ../src/mapas/tiles/background/castle_fondo.png

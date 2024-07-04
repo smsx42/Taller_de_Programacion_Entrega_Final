@@ -1,0 +1,458 @@
+option(SERVER "Build server" ON)
+set(CONFIG_FILE "${CMAKE_SOURCE_DIR}/configuracion.yaml")
+set(CONFIG_CHEAT_FILE "${CMAKE_SOURCE_DIR}/configuracionCheats.yaml")
+if(SERVER)
+	SET(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} -pthread")
+
+	add_executable(jazzservidor
+		./server_src/aceptador.cpp
+		./server_src/aceptador.h
+		./server_src/enemigo/enemigo_bruja.cpp
+		./server_src/enemigo/enemigo_bruja.h
+		./server_src/enemigo/enemigo_fencer.cpp
+		./server_src/enemigo/enemigo_fencer.h
+		./server_src/enemigo/enemigo_lizzard.cpp
+		./server_src/enemigo/enemigo_lizzard.h
+		./server_src/enemigo/enemigo_rat.cpp
+		./server_src/enemigo/enemigo_rat.h
+		./server_src/enemigo/enemigo.cpp
+		./server_src/enemigo/enemigo.h
+		./server_src/enemigo/fabrica_enemigos.h
+		./server_src/enviadorJugador.cpp
+		./server_src/enviadorJugador.h
+		./server_src/jugador.cpp
+		./server_src/jugador.h
+		./server_src/logicaPartida.cpp
+		./server_src/logicaPartida.h
+		./server_src/main.cpp
+		./server_src/monitorPartidas.cpp
+		./server_src/monitorPartidas.h
+		./server_src/partida.cpp
+		./server_src/partida.h
+		./server_src/personaje/personaje.cpp
+		./server_src/personaje/personaje.h
+		./server_src/personaje/personaje_jazz.cpp
+		./server_src/personaje/personaje_jazz.h
+		./server_src/personaje/personaje_lori.cpp
+		./server_src/personaje/personaje_lori.h
+		./server_src/personaje/personaje_spaz.cpp
+		./server_src/personaje/personaje_spaz.h
+		./server_src/protocoloServidor.cpp
+		./server_src/protocoloServidor.h
+		./server_src/recibidorJugador.cpp
+		./server_src/recibidorJugador.h
+		./server_src/servidor.cpp
+		./server_src/servidor.h
+		./server_src/arma.cpp
+		./server_src/arma.h
+		./server_src/bala/controlador_balas.h
+		./server_src/bala/bala.cpp
+		./server_src/bala/bala.h
+		./server_src/objeto/objeto.cpp
+		./server_src/objeto/objeto.h
+		./server_src/objeto/objeto_zanahoria.cpp
+		./server_src/objeto/objeto_zanahoria.h
+		./server_src/objeto/objeto_solido.cpp
+		./server_src/objeto/objeto_solido.h
+		./server_src/objeto/fabrica_objetos.h
+		./server_src/objeto/objeto_gema.cpp
+		./server_src/objeto/objeto_gema.h
+		./server_src/objeto/objeto_moneda.cpp
+		./server_src/objeto/objeto_moneda.h
+		./server_src/objeto/objeto_municion.cpp
+		./server_src/objeto/objeto_municion.h
+		./server_src/rectangulo.h
+		./server_src/triangulo.h
+		./server_src/configuracion.cpp
+		./server_src/configuracion.h
+		
+		
+		
+		./server_src/estado/estado.h
+		./server_src/estado/estado.cpp
+		./server_src/estado/estado_caminando.cpp
+		./server_src/estado/estado_caminando.h
+		./server_src/estado/estado_quieto.cpp
+		./server_src/estado/estado_quieto.h
+		./server_src/estado/estado_corriendo.cpp
+		./server_src/estado/estado_corriendo.h
+		./server_src/estado/estado_saltando.cpp
+		./server_src/estado/estado_saltando.h
+		./server_src/estado/estado_herido.cpp
+		./server_src/estado/estado_herido.h
+		./server_src/estado/estado_muerto.cpp
+		./server_src/estado/estado_muerto.h
+		./server_src/estado/estado_especial.cpp
+		./server_src/estado/estado_especial.h
+		./server_src/estado/estado_cayendo.cpp
+		./server_src/estado/estado_cayendo.h
+		./server_src/estado/estado_tambalear.cpp
+		./server_src/estado/estado_tambalear.h
+
+        ./server_src/mapa.h
+
+		
+		#./common_src/codigo_bala.h
+		./common_src/thread.h
+		./common_src/socket.h
+		./common_src/socket.cpp
+		./common_src/resolver.cpp
+		./common_src/resolver.h
+		./common_src/resolvererror.cpp
+		./common_src/resolvererror.h
+		./common_src/liberror.cpp
+		./common_src/liberror.h
+		./common_src/queue.h
+		
+	)
+
+	# biblioteca YAML-CPP
+	find_package(yaml-cpp REQUIRED)
+	target_link_libraries(jazzservidor PRIVATE yaml-cpp)
+	target_compile_definitions(jazzservidor PUBLIC CONFIG_PATH="${CONFIG_FILE}")
+	target_compile_definitions(jazzservidor PUBLIC CONFIG_CHEAT_PATH="${CONFIG_CHEAT_FILE}")
+	
+	target_include_directories(jazzservidor PUBLIC ${PROJECT_SOURCE_DIR}/server_src/estado)
+	target_include_directories(jazzservidor PUBLIC ${PROJECT_SOURCE_DIR}/server_src/objeto)
+	target_include_directories(jazzservidor PUBLIC ${PROJECT_SOURCE_DIR}/server_src/personaje)
+	target_include_directories(jazzservidor PUBLIC ${PROJECT_SOURCE_DIR}/server_src/enemigo)
+	
+	set(SERVER_OUTPUT_DIR ${CMAKE_BINARY_DIR})
+
+	set_target_properties(jazzservidor
+			PROPERTIES
+			RUNTIME_OUTPUT_DIRECTORY ${SERVER_OUTPUT_DIR})
+endif()
+
+
+option(CLIENT "Build client" ON)
+
+if(CLIENT)
+	set(SDL2PP_WITH_IMAGE ON)
+	set(SDL2PP_WITH_MIXER ON)
+	set(SDL2PP_WITH_TTF ON)
+	add_subdirectory(${CMAKE_SOURCE_DIR}/lib/libSDL2pp ${CMAKE_SOURCE_DIR}/build/lib/libSDL2pp)
+
+	
+	find_package(SDL2 REQUIRED)
+	include_directories(${SDL2_INCLUDE_DIRS})
+
+	
+	# Find the QtWidgets library
+	
+	find_package(Qt5Widgets CONFIG REQUIRED)
+	include_directories(${PROJECT_SOURCE_DIR}/src/ventana_lobby)
+	qt5_wrap_ui(UIS_HEADERS
+				./ventana_lobby/mainwindow.ui
+
+				)
+	set(CMAKE_AUTOMOC ON)
+    	set(CMAKE_AUTOUIC ON)
+    	set(CMAKE_AUTORCC ON)
+	# Adding directory with the autogenerated headers as include directory
+	include_directories(${PROJECT_BINARY_DIR}/src)
+
+	add_executable(jazzcliente
+		./client_src/main.cpp
+		./client_src/lobby.cpp
+		./client_src/lobby.h
+		./client_src/lobbyProtocolo.cpp
+		./client_src/lobbyProtocolo.h
+		./client_src/recibidorLobby.cpp
+		./client_src/recibidorLobby.h
+		./client_src/cliente.h
+		./client_src/cliente.cpp
+		
+		./client_src/recibidor_cliente.cpp
+		./client_src/recibidor_cliente.h
+		./client_src/renderizado.cpp
+		./client_src/renderizado.h
+		./client_src/direcciones.h
+		
+		./client_src/Vista_Personajes/personajeView.h
+		./client_src/Vista_Personajes/personajeView.cpp
+		./client_src/Vista_Personajes/personajeJazzView.h
+		./client_src/Vista_Personajes/personajeJazzView.cpp
+		./client_src/Vista_Personajes/personajeLoriView.h
+		./client_src/Vista_Personajes/personajeLoriView.cpp
+		./client_src/Vista_Personajes/personajeSpazView.h
+		./client_src/Vista_Personajes/personajeSpazView.cpp
+		./client_src/Vista_Personajes/personajeViewFactory.h
+		./client_src/Vista_Personajes/personajeViewFactory.cpp
+		./client_src/Vista_Personajes/personajeJazzViewFactory.h
+		./client_src/Vista_Personajes/personajeJazzViewFactory.cpp
+		./client_src/Vista_Personajes/personajeLoriViewFactory.h
+		./client_src/Vista_Personajes/personajeLoriViewFactory.cpp
+		./client_src/Vista_Personajes/personajeSpazViewFactory.h
+		./client_src/Vista_Personajes/personajeSpazViewFactory.cpp
+		
+		
+		./client_src/Vista_Enemigos/enemigoView.cpp
+		./client_src/Vista_Enemigos/enemigoView.h
+		./client_src/Vista_Enemigos/enemigoFencerView.cpp
+		./client_src/Vista_Enemigos/enemigoFencerView.h
+		./client_src/Vista_Enemigos/enemigoLizzardView.cpp
+		./client_src/Vista_Enemigos/enemigoLizzardView.h
+		./client_src/Vista_Enemigos/enemigoRatView.cpp
+		./client_src/Vista_Enemigos/enemigoRatView.h
+		./client_src/Vista_Enemigos/enemigoBrujaView.cpp
+		./client_src/Vista_Enemigos/enemigoBrujaView.h
+		./client_src/Vista_Enemigos/enemigoViewFactory.h
+		./client_src/Vista_Enemigos/enemigoViewFactory.cpp
+
+		./client_src/Vista_Objetos/objetoView.h
+		./client_src/Vista_Objetos/objetoView.cpp
+		./client_src/Vista_Objetos/objetoGemaView.h
+		./client_src/Vista_Objetos/objetoGemaView.cpp
+		./client_src/Vista_Objetos/objetoMonedaView.h
+		./client_src/Vista_Objetos/objetoMonedaView.cpp
+		./client_src/Vista_Objetos/objetoZanahoriaView.h
+		./client_src/Vista_Objetos/objetoZanahoriaView.cpp
+		./client_src/Vista_Objetos/objetoMunicionTipo_1View.h
+		./client_src/Vista_Objetos/objetoMunicionTipo_1View.cpp
+		./client_src/Vista_Objetos/objetoMunicionTipo_2View.h
+		./client_src/Vista_Objetos/objetoMunicionTipo_2View.cpp
+		./client_src/Vista_Objetos/objetoMunicionTipo_3View.h
+		./client_src/Vista_Objetos/objetoMunicionTipo_3View.cpp
+		./client_src/Vista_Objetos/objetoViewFactory.h
+		./client_src/Vista_Objetos/objetoViewFactory.cpp
+		
+		./client_src/protocolo_cliente.cpp
+		./client_src/protocolo_cliente.h
+		./client_src/enviadorCliente.cpp
+		./client_src/enviadorCliente.h
+		
+		./client_src/Vista_Proyectiles/balaView.cpp
+		./client_src/Vista_Proyectiles/balaView.h
+		./client_src/Vista_Proyectiles/balasPersonajes.h
+		./client_src/Vista_Proyectiles/balasPersonajes.cpp
+		./client_src/Vista_Proyectiles/proyectilViewFactory.h
+		./client_src/Vista_Proyectiles/proyectilViewFactory.cpp
+		
+		./client_src/Animaciones/animacion.h
+		./client_src/Animaciones/animacion.cpp
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_caminando.h
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_caminando.cpp
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_corriendo.h
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_corriendo.cpp
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_quieto.h
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_quieto.cpp
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_saltando.h
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_saltando.cpp
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_saltando_horizontal.h
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_saltando_horizontal.cpp
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_disparo_quieto.h
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_disparo_quieto.cpp
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_deja_disparo_quieto.h
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_deja_disparo_quieto.cpp
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_intoxicado_caminando.h
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_intoxicado_caminando.cpp
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_intoxicado_quieto.h
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_intoxicado_quieto.cpp
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_herido.h
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_herido.cpp
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_muerte.h
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_muerte.cpp
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_habilidad.h
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_habilidad.cpp
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_cayendo.h
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_cayendo.cpp
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_cayendo_horizontal.h
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_cayendo_horizontal.cpp
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_disparo_saltando.h
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_disparo_saltando.cpp
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_tambalear.h
+		./client_src/Animaciones/Animaciones_Jazz/animacion_Jazz_tambalear.cpp
+
+
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_caminando.h
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_caminando.cpp
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_corriendo.h
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_corriendo.cpp
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_quieto.h
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_quieto.cpp
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_saltando.h
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_saltando.cpp
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_saltando_horizontal.h
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_saltando_horizontal.cpp
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_disparo_quieto.h
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_disparo_quieto.cpp
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_deja_disparo_quieto.h
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_deja_disparo_quieto.cpp
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_intoxicado_caminando.h
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_intoxicado_caminando.cpp
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_intoxicado_quieto.h
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_intoxicado_quieto.cpp
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_herido.h
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_herido.cpp
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_muerte.h
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_muerte.cpp
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_habilidad.h
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_habilidad.cpp
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_cayendo.h
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_cayendo.cpp
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_cayendo_horizontal.h
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_cayendo_horizontal.cpp
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_disparo_saltando.h
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_disparo_saltando.cpp
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_tambalear.h
+		./client_src/Animaciones/Animaciones_Lori/animacion_Lori_tambalear.cpp
+
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_caminando.h
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_caminando.cpp
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_corriendo.h
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_corriendo.cpp
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_quieto.h
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_quieto.cpp
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_saltando.h
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_saltando.cpp
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_saltando_horizontal.h
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_saltando_horizontal.cpp
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_disparo_quieto.h
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_disparo_quieto.cpp
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_deja_disparo_quieto.h
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_deja_disparo_quieto.cpp
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_intoxicado_caminando.h
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_intoxicado_caminando.cpp
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_intoxicado_quieto.h
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_intoxicado_quieto.cpp
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_herido.h
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_herido.cpp
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_muerte.h
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_muerte.cpp
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_habilidad.h
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_habilidad.cpp
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_cayendo.h
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_cayendo.cpp
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_cayendo_horizontal.h
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_cayendo_horizontal.cpp
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_disparo_saltando.h
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_disparo_saltando.cpp
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_tambalear.h
+		./client_src/Animaciones/Animaciones_Spaz/animacion_Spaz_tambalear.cpp
+
+        ./client_src/Animaciones/Animaciones_Proyectiles/animacion_bala_pistola.h
+		./client_src/Animaciones/Animaciones_Proyectiles/animacion_bala_pistola.cpp
+		./client_src/Animaciones/Animaciones_Proyectiles/animacion_proyectil_tipo_1.h
+		./client_src/Animaciones/Animaciones_Proyectiles/animacion_proyectil_tipo_1.cpp
+		./client_src/Animaciones/Animaciones_Proyectiles/animacion_proyectil_tipo_2.h
+		./client_src/Animaciones/Animaciones_Proyectiles/animacion_proyectil_tipo_2.cpp
+		./client_src/Animaciones/Animaciones_Proyectiles/animacion_proyectil_tipo_3.h
+		./client_src/Animaciones/Animaciones_Proyectiles/animacion_proyectil_tipo_3.cpp
+		
+		
+		./client_src/Animaciones/Animaciones_Enemigos/animacion_Fencer_caminando.cpp
+		./client_src/Animaciones/Animaciones_Enemigos/animacion_Fencer_caminando.h
+		./client_src/Animaciones/Animaciones_Enemigos/animacion_Lizzard_caminando.cpp
+		./client_src/Animaciones/Animaciones_Enemigos/animacion_Lizzard_caminando.h
+		./client_src/Animaciones/Animaciones_Enemigos/animacion_Rat_caminando.cpp
+		./client_src/Animaciones/Animaciones_Enemigos/animacion_Rat_caminando.h
+		./client_src/Animaciones/Animaciones_Enemigos/animacion_Bruja_caminando.cpp
+		./client_src/Animaciones/Animaciones_Enemigos/animacion_Bruja_caminando.h
+		./client_src/Animaciones/Animaciones_Enemigos/animacion_Enemigo_desaparecer.cpp
+		./client_src/Animaciones/Animaciones_Enemigos/animacion_Enemigo_desaparecer.h
+
+		./client_src/Animaciones/Animaciones_Objetos/animacion_gema.cpp
+		./client_src/Animaciones/Animaciones_Objetos/animacion_gema.h
+		./client_src/Animaciones/Animaciones_Objetos/animacion_moneda.cpp
+		./client_src/Animaciones/Animaciones_Objetos/animacion_moneda.h
+		./client_src/Animaciones/Animaciones_Objetos/animacion_zanahoria.cpp
+		./client_src/Animaciones/Animaciones_Objetos/animacion_zanahoria.h
+		./client_src/Animaciones/Animaciones_Objetos/animacion_municion_tipo_1.cpp
+		./client_src/Animaciones/Animaciones_Objetos/animacion_municion_tipo_1.h
+		./client_src/Animaciones/Animaciones_Objetos/animacion_municion_tipo_2.cpp
+		./client_src/Animaciones/Animaciones_Objetos/animacion_municion_tipo_2.h
+		./client_src/Animaciones/Animaciones_Objetos/animacion_municion_tipo_3.cpp
+		./client_src/Animaciones/Animaciones_Objetos/animacion_municion_tipo_3.h
+		./client_src/Animaciones/Animaciones_Objetos/animacion_agarrar_objeto.cpp
+		./client_src/Animaciones/Animaciones_Objetos/animacion_agarrar_objeto.h
+		
+		./client_src/mapa.cpp
+		./client_src/mapa.h
+		./client_src/camara.cpp
+		./client_src/camara.h
+		./client_src/interfaz.cpp
+		./client_src/interfaz.h
+
+		./common_src/codigo_enemigo.h
+		./common_src/thread.h
+		./common_src/socket.h
+		./common_src/socket.cpp
+		./common_src/resolver.cpp
+		./common_src/resolver.h
+		./common_src/resolvererror.cpp
+		./common_src/resolvererror.h
+		./common_src/liberror.cpp
+		./common_src/liberror.h
+		./common_src/queue.h
+		
+		${UIS_HEADERS}
+		
+		./ventana_lobby/mainwindow.cpp
+		./ventana_lobby/resources.qrc
+	)
+
+	# biblioteca YAML-CPP
+	find_package(yaml-cpp REQUIRED)
+	target_link_libraries(jazzcliente PRIVATE yaml-cpp)
+	
+	target_link_libraries(jazzcliente PUBLIC Qt5::Widgets Qt5::Core SDL2pp::SDL2pp SDL2::SDL2main)
+	target_include_directories(jazzcliente PRIVATE ${PROJECT_SOURCE_DIR}/src)
+	target_include_directories(jazzcliente PUBLIC ${PROJECT_SOURCE_DIR}/src/client_src)
+	target_include_directories(jazzcliente PUBLIC 
+    ${PROJECT_SOURCE_DIR}/src/client_src/Animaciones
+    ${PROJECT_SOURCE_DIR}/src/client_src/Animaciones/Animaciones_enemigos
+    ${PROJECT_SOURCE_DIR}/src/client_src/Animaciones/Animaciones_Jazz
+    ${PROJECT_SOURCE_DIR}/src/client_src/Animaciones/Animaciones_Lori
+    ${PROJECT_SOURCE_DIR}/src/client_src/Animaciones/Animaciones_Proyectiles
+    ${PROJECT_SOURCE_DIR}/src/client_src/Animaciones/Animaciones_Spaz
+    
+)
+	include_directories(${Qt5Widgets_INCLUDE_DIRS})
+
+	set(CLIENT_OUTPUT_DIR ${CMAKE_BINARY_DIR})
+	set_target_properties(jazzcliente
+			PROPERTIES
+			RUNTIME_OUTPUT_DIRECTORY ${CLIENT_OUTPUT_DIR})
+	
+endif()
+
+
+option(EDITOR "Build editor" ON)
+
+if(EDITOR)
+
+    	# Find the QtWidgets library
+	
+	find_package(Qt5Widgets CONFIG REQUIRED)
+	include_directories(${PROJECT_SOURCE_DIR}/src)
+	qt5_wrap_ui(UIS_HEADERS
+				./mainwindow.ui
+
+				)
+	set(CMAKE_AUTOMOC ON)
+	set(CMAKE_AUTOUIC ON)
+	set(CMAKE_AUTORCC ON)
+
+    add_executable(jazzeditor
+        ./editor_src/main.cpp
+        ./editor_src/mainwindow.cpp
+	./editor_src/level_render.cpp
+        
+        ${UIS_HEADERS}
+		
+    )
+
+     target_link_libraries(jazzeditor
+        PRIVATE
+        Qt5::Widgets
+        yaml-cpp
+    )
+
+    set(EDITOR_OUTPUT_DIR ${CMAKE_BINARY_DIR})
+
+    set_target_properties(jazzeditor
+        PROPERTIES
+        RUNTIME_OUTPUT_DIRECTORY ${EDITOR_OUTPUT_DIR}
+    )
+endif()

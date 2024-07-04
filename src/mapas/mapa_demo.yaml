@@ -1,0 +1,177 @@
+solid:
+  - x: 0
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 50
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 100
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 150
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 200
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 250
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 300
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 350
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 400
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 450
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 500
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 550
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 600
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 650
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 700
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 750
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 800
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 850
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 900
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 950
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 1000
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 1050
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 1100
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 1150
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 1200
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 1250
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 1300
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 1350
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+  - x: 1400
+    y: 1050
+    width: 50
+    height: 50
+    imagen: ../src/mapas/tiles/beach/beach_bloque.png
+triangulo_izquierdo:
+  []
+triangulo_derecho:
+  []
+zanahoria:
+  []
+gema:
+  []
+moneda:
+  []
+bala_veloz:
+  - x: 875
+    y: 1025
+cohete_rapido:
+  - x: 1000
+    y: 1025
+cohete_toxico:
+  - x: 1125
+    y: 1025
+bruja:
+  []
+lizzard:
+  []
+fencer:
+  []
+rat:
+  []
+spawn:
+  - x: 700
+    y: 1000
+fondo: ../src/mapas/tiles/background/damnation_fondo.png
