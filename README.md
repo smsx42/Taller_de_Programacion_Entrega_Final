@@ -1,4 +1,4 @@
-# Jazz JackRabbit 2 - TP Final 1C2024
+# Jazz JackRabbit 2 - TP Final 1C2024 - Linux-c++
 
 Trabajo practico para la materia **Taller de Programación, Catédra Veiga, de la Facultad de Ingeniería, Universidad de Buenos Aires (UBA)**.
 
